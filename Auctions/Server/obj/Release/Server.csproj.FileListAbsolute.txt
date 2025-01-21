@@ -1,0 +1,10 @@
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\bin\Release\Server.exe
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\bin\Release\Server.pdb
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.AuctionManager.resources
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.BidderClient.resources
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.exe
+C:\Users\JorgeCosta\Desktop\Project\Auctions\Server\obj\Release\Server.pdb
